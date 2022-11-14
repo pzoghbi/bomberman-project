@@ -1,0 +1,2 @@
+/// @description 
+floating_text = "";

@@ -1,0 +1,11 @@
+var t_buffer = argument0;
+buffer_write(t_buffer, buffer_f32, sprite_index);
+buffer_write(t_buffer, buffer_f32, image_index);
+buffer_write(t_buffer, buffer_f32, x);
+buffer_write(t_buffer, buffer_f32, y);
+buffer_write(t_buffer, buffer_f32, image_xscale);
+buffer_write(t_buffer, buffer_f32, image_yscale);
+buffer_write(t_buffer, buffer_f32, image_angle);
+buffer_write(t_buffer, buffer_f32, image_blend);
+buffer_write(t_buffer, buffer_f32, image_alpha);
+return;
